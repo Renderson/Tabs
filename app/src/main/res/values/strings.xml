@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tabs</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="text_fragment_a">Fragment A</string>
+    <string name="text_fragment_b">Fragment B</string>
+
+    <string-array name="titles_tab">
+        <item>TAB A</item>
+        <item>TAB B</item>
+    </string-array>
+</resources>
